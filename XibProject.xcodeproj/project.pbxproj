@@ -85,9 +85,8 @@
 		71B93990215A471200093122 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				713BCE562152666D002B8D1E /* third.swift */,
-				714C040821524F0300A2060B /* ViewController.swift */,
 				714C040621524F0300A2060B /* AppDelegate.swift */,
+				714C040821524F0300A2060B /* ViewController.swift */,
 				714C041A215251C800A2060B /* Second.swift */,
 			);
 			path = Model;
@@ -96,6 +95,7 @@
 		71B93991215A471A00093122 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				713BCE562152666D002B8D1E /* third.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
